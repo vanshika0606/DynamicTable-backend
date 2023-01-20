@@ -1,4 +1,4 @@
-const { default: Accounts } = require("../../frontend/src/component/Accounts.js");
+
 const Account = require("../model/account_model.js");
 const Features = require("../utils/feature.js");
 
